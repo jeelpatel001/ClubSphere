@@ -387,4 +387,4 @@ const ClubHome = () => {
   );
 };
 
-export default RegisterMember;
+export default ClubHome;
